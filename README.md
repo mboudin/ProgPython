@@ -1,4 +1,4 @@
 # ProgPython
 Test pour le cours de python.
 
- Changement que je veux
+ Changement que j'ai en commun.
